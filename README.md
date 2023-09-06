@@ -12,6 +12,17 @@ So, how to configure it and plug and play on your machine?
 
 We can configure others variable and see something like ``config_classific`` the classification of the article generation health and the ``config_similarity`` how the prompt is similar to the response, so don't worry "play around with numbers on your own"
 
+don't forget to change variables
+```c
+counter_ == 1
+```
+change to **None** if you change to learn entirely articles
+
+```c
+itens == None
+```
+limit of articles to learn
+
 ## How to setup agent
 How can we setup the agent and plug and play the project, on variable ``path`` you can configure to path you want this path has to be compatible with **Machenary** path, then There you go!, if you configurate everything fine will run correctly.
 
