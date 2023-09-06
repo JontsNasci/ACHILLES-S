@@ -12,6 +12,9 @@ So, how to configure it and plug and play on your machine?
 
 We can configure others variable and see something like ``config_classific`` the classification of the article generation health and the ``config_similarity`` how the prompt is similar to the response, so don't worry "play around with numbers on your own"
 
+## How to setup agent
+How can we setup the agent and plug and play the project, om variable ``path`` you can configure to path you want this pathhas to be compatible with **Machenary** path, then There you go!, if you configurate everything fine will run correctly.
+
 ## Why diffusion is not working
 
 maybe the diffuser is not working but don't worry we don't need to worry, is a future implementation and very basic.
